@@ -1,4 +1,9 @@
-# 刻意人生隐私声明
+---
+layout: null
+permalink: /ideliberate/cn/privacy.html
+---
+
+# 刻意人生 隐私声明
 
 Version：10/2/2021
 
@@ -11,11 +16,7 @@ Version：10/2/2021
 
 下载App时，会将某些所需信息发送到您选择的 App Store（例如 Apple App Store）上。这里特别涉及到您的用户名、电子邮件地址、帐户的客户编号、下载时间，必要时还有付款信息以及您的终端设备的个人识别码。这些数据只能由相应 App Store 处理并且这些处理超出我们的控制范围。
 
-#### 2. iCloud 备份(iOS)
-
-如果你启用了iCloud，iOS系统会帮你备份APP数据，然后存储在iCloud服务器，这是苹果系统提供的功能。
-
-#### 3. Microsoft App Cente 微软应用中心
+#### 2. Microsoft App Cente 微软应用中心
 
 本App使用 Microsoft App Center的技术以及各种功能。
 - App Center Analytics 可以分析我们的 App 的使用情况。

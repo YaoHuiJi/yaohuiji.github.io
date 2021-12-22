@@ -1,3 +1,8 @@
+---
+layout: none
+permalink: /ideliberate/en/privacy.html
+---
+
 # iDeliberate Privacy Policy
 
 Version：10/2/2021
