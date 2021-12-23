@@ -3,6 +3,7 @@ layout: default
 permalink: /ideliberate/cn/privacy.html
 title: "刻意人生 隐私声明"
 ---
+# {{page.title}}
 Version：10/2/2021
 
 ## 关于您的个人数据

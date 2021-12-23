@@ -3,6 +3,7 @@ layout: default
 permalink: /ideliberate/en/privacy.html
 title: "iDeliberate Privacy Policy"
 ---
+# {{page.title}}
 Version：10/2/2021
 
 ## About your data
