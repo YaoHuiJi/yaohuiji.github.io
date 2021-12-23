@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 permalink: /ideliberate/cn/privacy.html
 title: "刻意人生 隐私声明"
 ---
