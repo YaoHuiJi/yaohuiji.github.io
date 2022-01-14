@@ -24,4 +24,4 @@ Our App uses technologies from the Microsoft App Center:
 Microsoft App Center makes it possible to analyse how our App service is used. It records entirely anonymised information about the use of our App and sends this to Microsoft, where it is then stored. Microsoft uses this information to evaluate how our App is used and provide us with further services associated with the use of apps. 
 
 ## Contact
-If you have any questions about this Privacy Policy, please contact me at yaohj@hotmail.com.
+If you have any questions about this Privacy Policy, please contact me via 17535084@qq.com.
